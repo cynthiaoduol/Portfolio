@@ -1,0 +1,21 @@
+nav{
+  margin:0 auto; 
+  padding: 0;
+  margin-right: 0;
+  margin-right:0;
+ }
+  nav>ul{
+    text-align:right;
+    
+  }
+  ul>li{
+    display:inline-block;
+   
+  }
+  nav>ul>li>a{
+    padding:10px;
+    margin-right:0;
+    text-transform:uppercase;
+    text-decoration:none;
+    display:block;
+  }
